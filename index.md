@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+嗨，你好！这里是我的博客！我会发布一些文章及教程。
 
-![Image of fast.ai logo](images/logo.png)
+## 关于我的博客
 
-## This is a title
+**我会在`下面`发布我的博客**  
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+### 关于我的GitHub
+我的GitHub主页:[wanLan1051](https://github.com/wanLan1051)  
+~~我没有其他Github账号。只有这个是我的账号。~~  
